@@ -1,0 +1,24 @@
+body{
+    background-color: #585844;
+}
+span{
+    color:yellow
+}
+h6{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+p{
+    font-family:'REM';
+     color: #acb9e8
+}
+li{
+    color: white;
+}
+a{
+    color: red;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
